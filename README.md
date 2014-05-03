@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MongoHQ OpenShift Quickstart (Ruby and MongoDB)
 -----------------------------
 
@@ -22,3 +23,9 @@ $ cd <app name>
 We've created a tutorial inside the quick start.  You can get started
 with the tutorial and quick start with detailed guides on the new
 application's served pages.
+=======
+M202
+====
+
+Example repository
+>>>>>>> c67518b48481c74a4b3fe56d3e36a4abb2305c74
